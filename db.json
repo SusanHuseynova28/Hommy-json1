@@ -1,0 +1,97 @@
+{"data":[
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-1.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "btn3": "STUDIO",
+     "text": "Casa Lomas De Machalí Machas",
+     "location": "145 Brooklyn Ave, Califonia, New York",
+     "bedroom":3,
+     "bathroom":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-6.jpg",
+     "name": "Arlene McCoy",
+     "price":"$7250,00",
+     "sqft":"/SqFT"
+   },
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-2.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "btn3": "APARTMENT",
+     "text": "Villa Del Mar Retreat, Malibu",
+     "location": "72 Sunset Avenue, Los Angeles, California",
+     "bedroom":2,
+     "bathroom":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-7.jpg",
+     "name": "Annette Black",
+     "price":"$250,00",
+     "sqft":"/SqFT"
+   },
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-3.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "btn3": "VILLA",
+     "text": "Rancho Vista Verde, Santa Barbara",
+     "location": "33 Maple Street, San Francisco, California",
+     "bedroom":4,
+     "bathroom":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-5.jpg",
+     "name": "Ralph Edwards",
+     "price":"$5055,00",
+     "sqft":"/SqFT"
+   },
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-4.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "btn3": "HOUSE",
+     "text": "Sunset Heights Estate, Beverly Hills",
+     "location": "1040 Ocean, Santa Monica, California",
+     "bedroom":3,
+     "bath":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-8.jpg",
+     "name": "Jacob Jones",
+     "price":"$250,00",
+     "sqft":"/SqFT"
+   },
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-5.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "button3": "OFFICE",
+     "text": "Coastal Serenity Cottage",
+     "location": "21 Hillside Drive, Beverly Hills, California",
+     "bedroom":4,
+     "bathroom":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-9.jpg",
+     "name": "Annette Black",
+     "price":"$7250,00",
+     "sqft":"/SqFT"
+   },
+  {
+     "img":"https://themesflat.co/html/homzen/images/home/house-6.jpg",
+     "btn1":"FEATURED",
+     "btn2":"FOR SALE",
+     "btn3": "STUDIO",
+     "text": "Villa Del Mar Retreat, Malibu",
+     "location": "72 Sunset Avenue, Los Angeles, California",
+     "bedroom":2,
+     "bathroom":2,
+     "jpg":"https://themesflat.co/html/homzen/images/avatar/avt-4.jpg",
+     "name": "Floyd Miles",
+     "price":"$250,00",
+     "sqft":"/SqFT"
+   }
+
+ ]
+ 
+}
+
+  
+
+  
+
+ 
+
+  
